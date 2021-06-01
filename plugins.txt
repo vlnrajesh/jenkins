@@ -9,3 +9,5 @@ workflow-multibranch
 workflow-scm-step
 workflow-step-api
 workflow-support
+git
+job-dsl
